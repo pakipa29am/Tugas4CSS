@@ -1,0 +1,9 @@
+.inputan ::-webkit-input-placeholder{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+.btn{
+    height: 40px;
+    color: rgb(136, 99, 32);
+    font-size: 30px;
+}
